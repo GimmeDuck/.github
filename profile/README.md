@@ -14,7 +14,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## GIMMEDUCK 사용 방법 순서에 따른 Repository
+## GIMMEDUCK 사용 방법 순서에 따른 Repository 
 
 ### 1. KLIP_practice
 
