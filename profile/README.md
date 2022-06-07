@@ -37,3 +37,5 @@
 ### [5. IPFS_practice](https://github.com/GimmeDuck/IPFS_practice.git)
 
 > 완성한 커스터마이징 캐릭터 PNG를 IPFS에 올리고, OpenSea에 NFT를 올릴 수 있는 메타데이터 JSON을 반환받은 해시값을 사용해 생성하여 이 JSON 파일도 IPFS에 올리는 코드가 작성되어 있습니다.
+
+
