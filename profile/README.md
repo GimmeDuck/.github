@@ -1,4 +1,7 @@
-## 안녕하세요 GIMMEDUCK 입니다 
+## GIMMEDUCK
+
+![image](https://user-images.githubusercontent.com/100677209/172299249-47e598e3-c5bc-4eec-9bb1-114950c5bd8e.png)
+
 
 <!--
 
