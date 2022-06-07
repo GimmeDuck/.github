@@ -15,6 +15,7 @@
 -->
 
 ## GIMMEDUCK 사용 방법 순서에 따른 Repository
+
 ### 1. KLIP_practice
 
 Klip API를 활용한 Klip 지갑 연동 및 송금 코드가 작성되어 있습니다. 
