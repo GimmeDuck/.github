@@ -16,14 +16,17 @@
 
 ## 💡 GIMMEDUCK 사용 방법
 
-### [1️⃣ KLIP_practice](https://github.com/GimmeDuck/KLIP_practice.git)
 
-> Klip API를 활용한 Klip 지갑 연동 및 송금 코드가 작성되어 있습니다. 
-또한, solidity를 사용하여 작성한 스마트 컨트랙트와 caver-js 라이브러리를 사용하여 작성한 스마트 컨트랙트 내 함수 실행 코드가 포함되어 있습니다.
 
-### [2️⃣ BACK_practice](https://github.com/GimmeDuck/BACK_practice.git) 
+### [1️⃣ GimmeDuck_Back](https://github.com/GimmeDuck/GimmeDuck_Back)
+
+> GimmeDuck_Back를 클론받습니다. 
+그리고
+
+### [2️⃣ GimmeDuck_Front](https://github.com/GimmeDuck/GimmeDuck_Front) 
 
 > User 정보, 팬덤 목록을 저장할 수 있는 백엔드 구축을 위한 쿼리문이 작성되어 있습니다.
+
 
 ### [3️⃣ FRONT_practice](https://github.com/GimmeDuck/FRONT_practice.git)
 
