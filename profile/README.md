@@ -1,6 +1,6 @@
 ## 🐤GIMMEDUCK🐤
 
-![image](https://user-images.githubusercontent.com/100677209/172299249-47e598e3-c5bc-4eec-9bb1-114950c5bd8e.png)
+![image](https://user-images.githubusercontent.com/101383358/203829025-6f71babe-fc32-42cf-afe1-c1ec6e6e9452.png)
 
 
 <!--
