@@ -18,27 +18,24 @@
 
 
 
-### [1️⃣ GimmeDuck_Back](https://github.com/GimmeDuck/GimmeDuck_Back)
+### [1️⃣ GimmeDuck_Back Clone](https://github.com/GimmeDuck/GimmeDuck_Back)
 
-> GimmeDuck_Back를 클론받습니다. 
-그리고
+> GimmeDuck_Back를 Clone 받습니다.
 
-### [2️⃣ GimmeDuck_Front](https://github.com/GimmeDuck/GimmeDuck_Front) 
+### [2️⃣ Gimmeduck_Front 파일 삭제] 
 
-> User 정보, 팬덤 목록을 저장할 수 있는 백엔드 구축을 위한 쿼리문이 작성되어 있습니다.
+> Clone 받은 GimmeDuck_Back 파일 내부에 있는 GimmeDuck_Front 파일을 삭제합니다.
 
+### [3️⃣ GimmeDuck_Front Clone](https://github.com/GimmeDuck/GimmeDuck_Front) 
 
-### [3️⃣ FRONT_practice](https://github.com/GimmeDuck/FRONT_practice.git)
+> Clone 받은 GimmeDuck_Back 파일 내부에 GimmeDuck_Front를 Clone 받습니다. 
 
-> NFT 캐릭터 커스터마이징을 하기 위한 아이템 선택창 코드가 작성되어 있습니다.
-또한, 완성한 커스터마이징 캐릭터 이미지를 다운로드하는 코드가 작성되어 있습니다.
+### [4️⃣ npm install ]
 
-### [4️⃣ RANDOM_practice](https://github.com/GimmeDuck/RANDOM_practice.git)
+> npm install 명령어를 통해 필요한 npm을 설치받습니다. 
 
-> NFT 캐릭터 랜덤 발행을 위한 코드가 작성되어 있습니다.
+### [5️⃣ npm start]
 
-### [5️⃣ IPFS_practice](https://github.com/GimmeDuck/IPFS_practice.git)
-
-> 완성한 커스터마이징 캐릭터 PNG를 IPFS에 올리고, OpenSea에 NFT를 올릴 수 있는 메타데이터 JSON을 반환받은 해시값을 사용해 생성하여 이 JSON 파일도 IPFS에 올리는 코드가 작성되어 있습니다.
+> npm start 명령어를 통해 프로젝트를 실행합니다.
 
 
