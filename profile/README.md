@@ -22,21 +22,29 @@
 ### [1️⃣ GimmeDuck_Main Clone](https://github.com/GimmeDuck/GimmeDuck_Main)
 
 > GimmeDuck_Main을 Clone 받습니다.
-> git clone https://github.com/GimmeDuck/GimmeDuck_Main.git
+```
+git clone https://github.com/GimmeDuck/GimmeDuck_Main.git
+```
 
 ### [2️⃣ GimmeDuck_Main으로 이동] 
 
-> cd GimmeDuck_Main
+```
+cd GimmeDuck_Main
+```
 
 ### [3️⃣ GimmeDuck_Front 파일 삭제] 
 
 > Clone 받은 GimmeDuck_Back 파일 내부에 있는 GimmeDuck_Front 파일을 삭제합니다.
-> rmdir GimmeDuck_Front
+```
+rmdir GimmeDuck_Front
+```
 
 ### [4️⃣ GimmeDuck_Front Clone](https://github.com/GimmeDuck/GimmeDuck_Front) 
 
 > Clone 받은 GimmeDuck_Back 파일 내부에 GimmeDuck_Front를 Clone 받습니다. 
-> git clone https://github.com/GimmeDuck/GimmeDuck_Front.git
+```
+git clone https://github.com/GimmeDuck/GimmeDuck_Front.git
+```
 
 ### [5️⃣ npm install ]
 
@@ -44,7 +52,9 @@
 
 ### [6️⃣ GimmeDuck_Front로 이동] 
 
-> cd GimmeDuck_Front
+```
+cd GimmeDuck_Front
+```
 
 ### [7️⃣ npm install ]
 
@@ -52,7 +62,9 @@
 
 ### [8️⃣ GimmeDuck_Main으로 이동] 
 
-> cd ..
+```
+cd ..
+```
 
 ### [9️⃣ npm start]
 
