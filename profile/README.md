@@ -14,28 +14,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-## 💡 GIMMEDUCK 사용 방법
-
-
-
-### [1️⃣ GimmeDuck_Back Clone](https://github.com/GimmeDuck/GimmeDuck_Back)
-
-> GimmeDuck_Back를 Clone 받습니다.
-
-### [2️⃣ Gimmeduck_Front 파일 삭제] 
-
-> Clone 받은 GimmeDuck_Back 파일 내부에 있는 GimmeDuck_Front 파일을 삭제합니다.
-
-### [3️⃣ GimmeDuck_Front Clone](https://github.com/GimmeDuck/GimmeDuck_Front) 
-
-> Clone 받은 GimmeDuck_Back 파일 내부에 GimmeDuck_Front를 Clone 받습니다. 
-
-### [4️⃣ npm install ]
-
-> npm install 명령어를 통해 필요한 npm을 설치받습니다. 
-
-### [5️⃣ npm start]
-
-> npm start 명령어를 통해 프로젝트를 실행합니다.
-
 
