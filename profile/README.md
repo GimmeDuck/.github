@@ -5,69 +5,71 @@
 > ‘Gimme-Duck’ 서비스는 NFT를 활용하여 기부투명성을 보장하는 블록체 인 기반 기부 플랫폼이다. 기부를 원하는 사용자는 서비스에서 나만의 NFT 를 커스터마이징 하고 자신이 속한 팬덤 이름으로 기부금을 전달한다.
 
 
-## 💡 GIMMEDUCK 사용해보기
+# 💡 GIMMEDUCK 사용해보기
 - 웹 배포 주소 : http://52.79.244.89
 - 시연 영상 : https://www.youtube.com/watch?v=-Zb7AD4dmGI&t=8s
 
 
-## 💡 GIMMEDUCK 설치 방법
+# 💡 GIMMEDUCK 설치 방법
 
 
 
-### [1️⃣ GimmeDuck_Main Clone](https://github.com/GimmeDuck/GimmeDuck_Main)
+#### [1️⃣ GimmeDuck_Main Clone](https://github.com/GimmeDuck/GimmeDuck_Main)
 
 > GimmeDuck_Main을 Clone 받습니다.
 ```
 git clone https://github.com/GimmeDuck/GimmeDuck_Main.git
 ```
 
-### [2️⃣ GimmeDuck_Main으로 이동] 
+#### [2️⃣ GimmeDuck_Main으로 이동] 
 
 ```
 cd GimmeDuck_Main
 ```
 
-### [3️⃣ GimmeDuck_Front 파일 삭제] 
+#### [3️⃣ GimmeDuck_Front 파일 삭제] 
 
 > Clone 받은 GimmeDuck_Back 파일 내부에 있는 GimmeDuck_Front 파일을 삭제합니다.
 ```
 rmdir GimmeDuck_Front
 ```
 
-### [4️⃣ GimmeDuck_Front Clone](https://github.com/GimmeDuck/GimmeDuck_Front) 
+#### [4️⃣ GimmeDuck_Front Clone](https://github.com/GimmeDuck/GimmeDuck_Front) 
 
 > Clone 받은 GimmeDuck_Back 파일 내부에 GimmeDuck_Front를 Clone 받습니다. 
 ```
 git clone https://github.com/GimmeDuck/GimmeDuck_Front.git
 ```
 
-### [5️⃣ npm install ]
+#### [5️⃣ npm install ]
 
 > GimmeDuck_Main 내부에서 npm install 명령어를 통해 필요한 npm을 설치받습니다. 
 
-### [6️⃣ GimmeDuck_Front로 이동] 
+#### [6️⃣ GimmeDuck_Front로 이동] 
 
 ```
 cd GimmeDuck_Front
 ```
 
-### [7️⃣ npm install ]
+#### [7️⃣ npm install ]
 
 > GimmeDuck_Front 내부에서 npm install 명령어를 통해 필요한 npm을 설치받습니다. 
 
-### [8️⃣ GimmeDuck_Main으로 이동] 
+#### [8️⃣ GimmeDuck_Main으로 이동] 
 
 ```
 cd ..
 ```
 
-### [9️⃣ npm start]
+#### [9️⃣ npm start]
 
 > npm start 명령어를 통해 프로젝트를 실행합니다.
 
+
 ---
 
-## 💡 GIMMEDUCK 기능 
+
+# 💡 GIMMEDUCK 기능 
 
 ![image](https://user-images.githubusercontent.com/81505421/205809608-cfd9f4cd-b130-4cab-92fb-b048f5da6354.png)
 
@@ -91,12 +93,14 @@ cd ..
 
 
 
-## 💡 GIMMEDUCK 개발환경 및 구조도
+
+# 💡 GIMMEDUCK 개발환경 및 구조도
 
 ![image](https://user-images.githubusercontent.com/81505421/205808979-dc211e76-fe1d-465b-aff4-90a06bd7295e.png)
 
 
-## 💡 GIMMEDUCK 팀원 소개 
+
+# 💡 GIMMEDUCK 팀원 소개 
 
 <table>
   <tbody>
