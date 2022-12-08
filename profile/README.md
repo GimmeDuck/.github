@@ -9,9 +9,33 @@
 - 웹 배포 주소 : http://52.79.244.89
 - 시연 영상 : https://www.youtube.com/watch?v=-Zb7AD4dmGI&t=8s
 
+# 💡 GIMMEDUCK 디렉토리 구조
+
+```bash
+GimmeDuck_Main
+├── GimmeDuck_Back
+│   ├── pinata_key.js
+│   └── server.js
+└── GimmeDuck_Front
+    ├── config.  
+    │   ├── jest
+    │   └── webpack/persistentCache
+    ├── public
+    │   └── img
+    ├── scripts
+    └── src
+        ├── abi
+        ├── components
+        ├── config
+        ├── custom_Img
+        ├── screen_js
+        ├── screens
+        ├── style
+        └── utils
+
+``` 
 
 # 💡 GIMMEDUCK 설치 방법
-
 
 
 #### [1️⃣ GimmeDuck_Main Clone](https://github.com/GimmeDuck/GimmeDuck_Main)
